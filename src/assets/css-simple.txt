@@ -1,0 +1,35 @@
+/* app.component.css */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    margin-top: 10px;
+  }
+  
+  .movie-list {
+    margin-top: 30px;
+  }
+  
+  .movie {
+    margin-bottom: 20px;
+  }
+  
+  .movie img {
+    max-width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .movie h3 {
+    margin-top: 10px;
+  }
+  
